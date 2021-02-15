@@ -1,0 +1,5 @@
+/.idea/
+/venv/
+/__pycache__/
+/ZipCodes.sql
+/zipcodes.db
